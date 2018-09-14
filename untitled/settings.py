@@ -81,7 +81,7 @@ DATABASES = {
         'USER': 'root',
         'PASSWORD': 'a348919881',
         'HOST': '127.0.0.1',
-        'PSRT': '3306'
+        'PORT': '3306',
     }
 }
 
